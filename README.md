@@ -6,6 +6,13 @@ The project was built to strengthen my understanding of React by focusing on sta
 
 ---
 
+## 👨‍💻 Author
+
+**Arman Ansari**
+
+- GitHub: https://github.com/Arman2602
+- LinkedIn: https://www.linkedin.com/in/arman-ansari-3a2934305/
+
 ## Features
 
 - Dashboard with financial overview and key statistics
@@ -57,6 +64,15 @@ The project follows a modular structure where UI components, business logic, hoo
 > Screenshots will be added soon.
 
 ---
+
+## 🌐 Live Demo
+
+Experience the application live:
+
+**🔗 Live Application:** https://expense-tracker-bice-xi.vercel.app/
+
+> **Note:** This project currently stores data locally in your browser using Local Storage. Your data will remain available on the same browser unless you clear your browser storage.
+
 
 ## Getting Started
 
