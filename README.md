@@ -61,7 +61,37 @@ The project follows a modular structure where UI components, business logic, hoo
 
 ## Screenshots
 
-> Screenshots will be added soon.
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="48%" alt="Dashboard"/>
+  <img src="./screenshots/expenses.png" width="48%" alt="Expenses"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/add-transaction.png" width="48%" alt="Add Transaction"/>
+  <img src="./screenshots/budgets.png" width="48%" alt="Budgets"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/add-budget.png" width="48%" alt="Add Budget"/>
+  <img src="./screenshots/reports.png" width="48%" alt="Reports"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/spending-trends.png" width="48%" alt="Spending Trends"/>
+  <img src="./screenshots/expense-distribution.png" width="48%" alt="Expense Distribution"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/financial-insights.png" width="48%" alt="Financial Insights"/>
+  <img src="./screenshots/spending-category.png" width="48%" alt="Spending by Category"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/settings.png" width="48%" alt="Settings"/>
+  <img src="./screenshots/monthly-spending.png" width="48%" alt="Monthly Spending"/>
+</p>
 
 ---
 
